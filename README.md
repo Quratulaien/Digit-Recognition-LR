@@ -188,9 +188,8 @@ Feel free to fork the repository, create a new branch, and submit a Pull Request
 - 📄 Retrieval-Augmented Generation (RAG)
 - 👁️ Computer Vision
 
-📧 **Email:** your-email@example.com
 
-🔗 **LinkedIn:** https://linkedin.com/in/your-profile
+🔗 **LinkedIn:** https://www.linkedin.com/in/qurat-ul-aien
 
 🌐 **GitHub:** https://github.com/Quratulaien
 
